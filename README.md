@@ -1,7 +1,7 @@
-AirMaps Privacy Policy
+VRMaps Privacy Policy
 Effective Date: August 2, 2025
 Last Updated: August 2, 2025
-FreeFly Maps ("we," "our," or "us") respects your privacy. This Privacy Policy outlines how we handle user information in the AirMaps app.
+VRMaps ("we," "our," or "us") respects your privacy. This Privacy Policy outlines how we handle user information in the AirMaps app.
 
 1. Information We Collect
 We do not collect, store, or share any personal information or data from users.
