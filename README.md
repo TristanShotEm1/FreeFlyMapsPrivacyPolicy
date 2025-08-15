@@ -34,4 +34,4 @@ We maintain best practices to secure both anonymized aggregated data and GeoCach
 We may update this Privacy Policy to reflect changes in features, data handling, or legal requirements. Updates will be posted here with the revised “Last Updated” date.
 10. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact:
-📧 TristanMadeTheApp@icloud.com
+    FreeFlyMaps@Gmail.com
